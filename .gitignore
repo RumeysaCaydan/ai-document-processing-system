@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal Ortam (Virtual Environment)
+venv/
+env/
+ENV/
+
+# Veri ve Modeller
+*.pt
+*.pth
+*.bin
+*.onnx
+/datasets/
+/models_storage/
+
+# Gizli Bilgiler
+.env
+
+# IDE Ayarları (PyCharm)
+.idea/
+.vscode/
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
