@@ -1,6 +1,8 @@
 from fastapi import FastAPI
-from database.database import SessionLocal
-from database.models import Receipt
+from database.database import SessionLocal, Base, engine
+from models.models import Receipt
+
+Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
