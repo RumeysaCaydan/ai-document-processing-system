@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc86b234-1a3b-4be8-a152-da43d743e9d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/uploads/Akbank_Dekont (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Akbank_Dekont (2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Akbank_Dekont (3).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Akbank_Dekont (4).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Akbank_Dekont (5).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Akbank_Dekont (6).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Akbank_Dekont (7).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Akbank_Dekont (8).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Akbank_Dekont (9).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Akbank_Dekont.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/database.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
     &quot;Python.database.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -55,11 +66,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\Automatic Classification of Youth Anxiety Themes in Turkish Social Media Texts\uploads" />
       <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\Automatic Classification of Youth Anxiety Themes in Turkish Social Media Texts\utils" />
       <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\Automatic Classification of Youth Anxiety Themes in Turkish Social Media Texts\models" />
       <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\Automatic Classification of Youth Anxiety Themes in Turkish Social Media Texts\services" />
       <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\Automatic Classification of Youth Anxiety Themes in Turkish Social Media Texts\database" />
-      <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\Automatic Classification of Youth Anxiety Themes in Turkish Social Media Texts\app" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main">

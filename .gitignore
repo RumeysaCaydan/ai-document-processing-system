@@ -13,7 +13,7 @@ ENV/
 *.pth
 *.bin
 *.onnx
-/datasets/
+/datasets/g
 /models_storage/
 
 # Gizli Bilgiler
@@ -26,3 +26,5 @@ ENV/
 # İşletim Sistemi Dosyaları
 .DS_Store
 Thumbs.db
+
+uploads/
